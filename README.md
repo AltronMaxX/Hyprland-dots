@@ -1,4 +1,7 @@
-# Hyprland-dots
+
+<div align="center">
+    <h1>AltronMaxX Hyprland Dots</h1>
+</div>
 
 <div align="center">
     <h1>How it looks</h1>
@@ -51,8 +54,6 @@ Optional Font:
 
 - [NotoColorEmoji](https://github.com/googlefonts/noto-emoji/raw/main/fonts/NotoColorEmoji.ttf)
 - [Codicon](https://github.com/microsoft/vscode-codicons/raw/main/dist/codicon.ttf)
-
-> Or either way, check my [fonts](https://github.com/iamverysimp1e/fonts) repos where i store all of the programming fonts.
 
 Once you download them and unpack them, place them into `~/.fonts` or `~/.local/share/fonts.`
 
