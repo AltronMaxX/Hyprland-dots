@@ -1,6 +1,13 @@
 # Hyprland-dots
 
 <div align="center">
+    <h1>How it looks</h1>
+</div>
+
+![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen1.jpg?token=GHSAT0AAAAAADF5CBPMFBOFKQBCTTO7WUPS2CUT3SQ)
+![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen2.jpg?token=GHSAT0AAAAAADF5CBPNTLEZTTSPBZTJN67I2CUT36A)
+
+<div align="center">
     <h1>Installations 💫</h1>
 </div>
 
@@ -65,7 +72,7 @@ cp ./zsh/.zshrc ~/.zshrc
 cp ./zsh/agnosterzak.zsh-theme ~/.oh-my-zsh/themes/agnosterzak.zsh-theme
 ```
 
-## Thanks to
-    - [Original dots] https://github.com/1amSimp1e/dots/tree/late-night-%F0%9F%8C%83
-    - [SDDM Theme] https://github.com/Keyitdev/sddm-astronaut-theme
-    - [Used ZSH config] https://github.com/JaKooLit/Hyprland-Dots
+## Thanks to:
+- [Original dots] https://github.com/1amSimp1e/dots/tree/late-night-%F0%9F%8C%83
+- [SDDM Theme] https://github.com/Keyitdev/sddm-astronaut-theme
+- [Used ZSH config] https://github.com/JaKooLit/Hyprland-Dots
