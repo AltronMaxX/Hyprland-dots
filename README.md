@@ -7,8 +7,8 @@
     <h1>How it looks</h1>
 </div>
 
-![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen1.jpg?token=GHSAT0AAAAAADF5CBPMFBOFKQBCTTO7WUPS2CUT3SQ)
-![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen2.jpg?token=GHSAT0AAAAAADF5CBPNTLEZTTSPBZTJN67I2CUT36A)
+![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen1.jpg)
+![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen2.jpg)
 
 <div align="center">
     <h1>Installations 💫</h1>
