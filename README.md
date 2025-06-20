@@ -9,6 +9,7 @@
 
 ![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen1.jpg)
 ![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen2.jpg)
+![](https://raw.githubusercontent.com/AltronMaxX/Hyprland-dots/refs/heads/main/Screenshots/screen3.jpg)
 
 <div align="center">
     <h1>Installations 💫</h1>
