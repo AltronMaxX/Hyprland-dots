@@ -32,6 +32,12 @@
 yay -S waybar-hyprland rofi swaync kitty swaybg swaylock-fancy-git swayidle pamixer light brillo hyprlock hypridle thunar firefox zsh
 ```
 
+- If you want bluetooth
+```
+yay -S bluez bluez-utils blueman
+systemctl enable bluetooth.service 
+```
+
 - Install Oh My Zsh:
 ```
 sh -c "$(curl -fsSL https://install.ohmyz.sh)" "" --unattended 
